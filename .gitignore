@@ -53,3 +53,8 @@ build-iPhoneSimulator/
 /control.pub
 /MasteringAnsible.iml
 /loadbalancer.retry
+/roles/nginx/.travis.yml
+/roles/mysql/.travis.yml
+/roles/demo_app/.travis.yml
+/roles/control/.travis.yml
+/roles/apache2/.travis.yml
